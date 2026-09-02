@@ -22,5 +22,13 @@
     "album": "Jawani Iraqi",
     "cover": "https://github.com/kaushal1232/gitmusic/blob/main/Jawani%20Iraqi.mp3",
     "url": "https://github.com/kaushal1232/gitmusic/blob/main/Jawani%20Iraqi.mp3"
+  },
+  {
+    "id": "3",
+    "title": "Mind Relax Lofi Mashup ",
+    "artist": "Kaushal Sharma",
+    "album": "Youtube",
+    "cover": "https://www.youtube.com/watch?v=zoFLbJ_09aM&list=RDzoFLbJ_09aM&start_radio=1",
+    "url": "https://www.youtube.com/watch?v=zoFLbJ_09aM&list=RDzoFLbJ_09aM&start_radio=1"
   }
 ]
