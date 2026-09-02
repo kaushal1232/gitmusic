@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Call Aundi",
-    "artist": "Yo YO Honey",
+    "artist": "Kaushal sharma",
     "album": "Acoustic Sampler",
     "cover": "https://github.com/kaushal1232/gitmusic/blob/main/Call%20Aundi.mp3",
     "url": "https://github.com/kaushal1232/gitmusic/blob/main/Call%20Aundi.mp3"
@@ -10,7 +10,7 @@
   {
     "id": "2",
     "title": "GOD STYLE",
-    "artist": "Yo YO Honey",
+    "artist": "Kaushal sharma",
     "album": "Electronic Vibes",
     "cover": "https://github.com/kaushal1232/gitmusic/blob/main/GOD%20STYLE.mp3",
     "url": "https://github.com/kaushal1232/gitmusic/blob/main/GOD%20STYLE.mp3"
@@ -18,17 +18,9 @@
   {
     "id": "3",
     "title": "Jawani Iraqi",
-    "artist": "Honey Singh",
+    "artist": "Kaushal sharma",
     "album": "Jawani Iraqi",
     "cover": "https://github.com/kaushal1232/gitmusic/blob/main/Jawani%20Iraqi.mp3",
     "url": "https://github.com/kaushal1232/gitmusic/blob/main/Jawani%20Iraqi.mp3"
   },
-  {
-    "id": "4",
-    "title": "Mind Relax Lofi Mashup ",
-    "artist": "Kaushal Sharma",
-    "album": "Youtube",
-    "cover": "https://www.youtube.com/watch?v=zoFLbJ_09aM&list=RDzoFLbJ_09aM&start_radio=1",
-    "url": "https://www.youtube.com/watch?v=zoFLbJ_09aM&list=RDzoFLbJ_09aM&start_radio=1"
-  }
 ]
