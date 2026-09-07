@@ -1,1 +1,32 @@
-[{"id":"1","title":"Call Aundi","artist":"Kaushal sharma","album":"Acoustic Sampler","cover":"https://github.com/kaushal1232/gitmusic/blob/main/Call%20Aundi.mp3","url":"https://github.com/kaushal1232/gitmusic/blob/main/Call%20Aundi.mp3"},{"id":"2","title":"GOD STYLE","artist":"Kaushal sharma","album":"Electronic Vibes","cover":"https://github.com/kaushal1232/gitmusic/blob/main/GOD%20STYLE.mp3","url":"https://github.com/kaushal1232/gitmusic/blob/main/GOD%20STYLE.mp3"},{"id":"3","title":"Jawani Iraqi","artist":"Kaushal sharma","album":"Jawani Iraqi","cover":"https://github.com/kaushal1232/gitmusic/blob/main/Jawani%20Iraqi.mp3","url":"https://github.com/kaushal1232/gitmusic/blob/main/Jawani%20Iraqi.mp3"},{"id":"1788795006734","title":"Yeh Awarapan 2","artist":"Arijit Singh","album":"Awarapan 2","cover":"https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500","url":"https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/yeh_awarapan_2_1788795006734.mp3"},{"id":"1788795115000","title":"Awarapan","artist":"Arijit Singh","cover":"https://raw.githubusercontent.com/kaushal1232/gitmusic/main/covers/awarapan__1788795115000.jpg","url":"https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/awarapan__1788795115000.mp3"},{"id":"1788797866593","title":"Waade Saare","artist":"Jubin Nautiyal","cover":"https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500","url":"https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/waade_saare__1788797866593.mp3"},{"id":"1788798116905","title":"Tujhe Main Pyar Karu","artist":"Kailash Kher","cover":"https://raw.githubusercontent.com/kaushal1232/gitmusic/main/covers/tujhe_main_pyar_karu_1788798116905.jpg","url":"https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/tujhe_main_pyar_karu_1788798116905.mp3"},{"id":"1788798250753","title":"Tujhe Main Pyar Karu","artist":"Kailash Kher","cover":"https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500","url":"https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/tujhe_main_pyar_karu_1788798250753.mp3"},{"id":"1788804553274","title":"Aye Khuda Murder 2","artist":"Mithoon","album":"Best Music","cover":"https://raw.githubusercontent.com/kaushal1232/gitmusic/main/covers/aye_khuda_murder_2_1788804553274.jpg","url":"https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/aye_khuda_murder_2_1788804553274.mp3"}]
+[
+  {
+    "id": "1788795006734",
+    "title": "Yeh Awarapan 2",
+    "artist": "Arijit Singh",
+    "album": "Awarapan 2",
+    "cover": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500",
+    "url": "https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/yeh_awarapan_2_1788795006734.mp3"
+  },
+  {
+    "id": "1788797866593",
+    "title": "Waade Saare",
+    "artist": "Jubin Nautiyal",
+    "cover": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500",
+    "url": "https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/waade_saare__1788797866593.mp3"
+  },
+  {
+    "id": "1788798250753",
+    "title": "Tujhe Main Pyar Karu",
+    "artist": "Kailash Kher",
+    "cover": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500",
+    "url": "https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/tujhe_main_pyar_karu_1788798250753.mp3"
+  },
+  {
+    "id": "1788804553274",
+    "title": "Aye Khuda Murder 2",
+    "artist": "Mithoon",
+    "album": "Best Music",
+    "cover": "https://raw.githubusercontent.com/kaushal1232/gitmusic/main/covers/aye_khuda_murder_2_1788804553274.jpg",
+    "url": "https://raw.githubusercontent.com/kaushal1232/gitmusic/main/music/aye_khuda_murder_2_1788804553274.mp3"
+  }
+]
